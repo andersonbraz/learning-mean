@@ -55,5 +55,4 @@ npm install ui-select --save
 npm install moment --save
 npm install bufferutil --save
 npm install utf-8-validate --save
-npm install puppeteer --save
 ```
