@@ -42,23 +42,13 @@ Para tratar WARNING's indesejados lembrar de incluir no arquivo package.json
 "license": "UNLICENSED",
 ```
 
-Instalando dependências do projeto
+Instalando dependências de desenvolvimento do projeto
 
 ```
-npm install http-server --save
-npm install angular-br-filters --save
-npm install angular-i18n --save
-npm install angular-input-masks --save
-npm install angular-ui-mask --save
-npm install chosen-js --save
-npm install acorn --save
-npm install highcharts --save
-npm install highcharts-ng --save
-npm install iframe-resizer --save
-npm install ng-file-upload --save
-npm install ng-table --save
-npm install ui-select --save
-npm install moment --save
-npm install bufferutil --save
-npm install utf-8-validate --save
+npm install http-server --save-dev
+```
+
+Instalando dependências de recursos do projeto
+```
+npm install angular-br-filters angular-i18n angular-input-masks angular-ui-mask chosen-js acorn highcharts highcharts-ng iframe-resizer ng-file-upload ng-table ui-select moment bufferutil utf-8-validate --save
 ```
