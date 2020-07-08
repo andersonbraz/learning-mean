@@ -1,6 +1,6 @@
 # Aprendizado MEAN
 
-## O que é o MEAN.JS?
+## O que é o MEAN?
 
 A MEAN Stack é uma solução completa para desenvolvimento de Single Page Applications (SPA) na plataforma Node.js utilizando AngularJS para views dinâmicas, Express para construção de APIs REST de alto nível e MongoDB para persistência. A combinação desse quarteto resulta na "onipresença" da linguagem JavaScript em todas as camadas da aplicação.
 
