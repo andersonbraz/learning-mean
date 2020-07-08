@@ -2,7 +2,23 @@
 
 ## O que é o MEAN.JS?
 
-O MEAN.JS é uma solução JavaScript de pilha completa que ajuda a criar aplicativos da Web de produção rápidos, robustos e sustentáveis ​​usando MongoDB, Express, AngularJS e Node.js.
+A MEAN Stack é uma solução completa para desenvolvimento de Single Page Applications (SPA) na plataforma Node.js utilizando AngularJS para views dinâmicas, Express para construção de APIs REST de alto nível e MongoDB para persistência. A combinação desse quarteto resulta na "onipresença" da linguagem JavaScript em todas as camadas da aplicação.
+
+Aprenda nesse workshop como essas três tecnologias combinam-se entre si e pratique criando uma aplicação do início ao fim. Principais tópicos:​
+
+**Visão geral da Stack** – Projeto de exemplo, organização e escopo.
+
+**Express** – Configuração e seus principais middlewares. Criação das rotas da aplicação. Dados voláteis disponibilizados pela API criada. Uso de Generators para ajudar na programação assíncrona.
+
+**Angular 1.x** – Data binding, rotas, diretivas, controllers, módulos. Nesta etapa, dados voláteis serão utilizados para exercitar os conceitos.
+
+**Angular 1.x/Express** – Integração do cliente Angular com o backend através de serviços especializados do Angular como $http e $resource
+
+**MongoDB** – Introdução ao MongoDB: busca, inclusão, alteração e atualização através do seu cliente em linha de comando.
+
+**Express/MongoDB** – Integração do back-end como MongoDB através do Mongoose, ferramenta ODM especializada na criação de esquemas.
+
+**Outras ferramentas** – Karma Test Runner e Protractor​
 
 
 | Syntax      | Description |
@@ -23,5 +39,10 @@ npm init -y
 Instalando dependências do projeto
 
 ```
-npm init -y
+npm install http-server --save
+npm install angular-br-filters --save
+npm install angular-i18n --save
+npm install angular-input-masks --save
+npm install angular-ui-mask --save
+npm install chosen-js --save
 ```
