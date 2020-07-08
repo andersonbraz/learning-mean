@@ -35,6 +35,12 @@ Iniciando um projeto
 npm init -y
 ```
 
+Para tratar WARNING's indesejados lembrar de incluir no arquivo package.json
+
+```
+"private": true,
+"license": "UNLICENSED",
+```
 
 Instalando dependências do projeto
 
