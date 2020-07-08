@@ -45,4 +45,12 @@ npm install angular-i18n --save
 npm install angular-input-masks --save
 npm install angular-ui-mask --save
 npm install chosen-js --save
+npm install acorn --save
+npm install highcharts --save
+npm install highcharts-ng --save
+npm install iframe-resizer --save
+npm install ng-file-upload --save
+npm install ng-table --save
+npm install ui-select --save
+npm install moment --save
 ```
