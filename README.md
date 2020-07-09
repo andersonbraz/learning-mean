@@ -50,5 +50,5 @@ npm install http-server --save-dev
 
 Instalando dependências de recursos do projeto
 ```
-npm install angular-br-filters angular-i18n angular-input-masks angular-ui-mask chosen-js acorn highcharts highcharts-ng iframe-resizer ng-file-upload ng-table ui-select moment bufferutil utf-8-validate --save
+npm install angular@^1.2 angular-br-filters angular-i18n angular-input-masks angular-ui-mask chosen-js acorn highcharts highcharts-ng iframe-resizer ng-file-upload ng-table ui-select moment bufferutil utf-8-validate --save
 ```
